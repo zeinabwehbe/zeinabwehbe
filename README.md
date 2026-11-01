@@ -48,6 +48,14 @@ A PowerPoint add-in for live classroom drawing activities. Students submit drawi
 
 `JavaScript` `Office Add-ins` `Socket.IO` `Express` `MySQL` `JWT`
 
+## Team projects
+
+### [Social Media Analytics Dashboard](https://github.com/alialzein01/social-media-analytics)
+
+A Streamlit app, built with [@alialzein01](https://github.com/alialzein01), that analyzes Facebook, Instagram and YouTube content. I added the comment service that fetches comments from all three platforms and the app's configuration module, and fixed JSON export.
+
+`Python` `Streamlit` `Apify` `MongoDB`
+
 ## Skills
 
 - **AI & Data:** RAG, semantic search, embeddings & reranking, LangChain, OpenAI API, Whisper, pyannote, web scraping (Apify)
